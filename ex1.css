@@ -1,0 +1,14 @@
+.background{
+    /* background-image: url('https://img.freepik.com/free-vector/circles-water-top-view-radial-pattern-liquid-surface-with-diverging-rings-whirls-splashes-ripples-made-thrown-stone-blue-sea-ocean-background-realistic-3d-illustration_107791-3594.jpg?w=1380&t=st=1676969090~exp=1676969690~hmac=baa5e71f361763f9789d929b7a0b80daf7c53d529ea32e4046f7946b6ea59525');
+background-repeat: no-repeat;
+background-size: cover; */
+background-color: wheat;
+height: 100%;
+}
+.wonder{
+    text-align: center;
+}
+.div1{
+    padding-left: 30px;
+}
+
