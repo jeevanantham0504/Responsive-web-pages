@@ -1,0 +1,8 @@
+.butt{
+    width:0px;
+}
+@media screen and (min-width:260px) and (max-width:991px){
+    .butt{
+        width:40px!important;
+    } 
+}
