@@ -1,0 +1,50 @@
+.bgimg{
+    background-image: url('Screenshot\ 2023-03-06\ 183103.png');
+     background-repeat: no-repeat;
+     background-size: 800px 600px;
+}
+.content1{
+    width: 18rem;
+}
+.icons{
+
+}
+.content2{
+    text-align:left;
+}
+.content3{
+    text-align: left;
+    line-height:1px;
+}
+@media screen and (min-width:360px) and (max-width:900px) {
+
+    .bgimg{
+        background-image: none;
+    }
+    .content1{
+        text-align: center;
+    }
+    .icons{
+        text-align: center;
+    }
+    .content2{
+        text-align: center;
+        padding-right: 0px;
+        margin-right: 0px;
+        margin-left: 50px;
+    }
+    
+    .content3{
+        text-align: center;
+        padding-right: 0px;
+        margin-right: 0px;
+        margin-left: 50px;
+    }
+    .icons2{
+        margin-top: 50px;
+    }
+    .icons3{
+        margin-top: 50px;
+    }
+    
+}
