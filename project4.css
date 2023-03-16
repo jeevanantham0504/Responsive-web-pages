@@ -1,0 +1,22 @@
+.cmpny{
+    text-align:left!important;
+    
+}
+.menu{
+    text-align:right!important;
+    
+}
+
+
+
+
+@media screen and (min-width:260px) and (max-width:970px){
+    .cmpny{
+        text-align: center!important;
+        
+    }
+    .menu{
+        
+        text-align: center!important;
+    }
+}
